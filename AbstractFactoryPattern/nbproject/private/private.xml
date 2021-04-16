@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Color.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Square.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/AbstractFactoryPatternDemo.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Rectangle.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Blue.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/ShapeFactory.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/FactoryProducer.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Shape.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Circle.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/AbstractFactory.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Green.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/Red.java</file>
+            <file>file:/D:/NetBeansProjects/DesignPatterns/AbstractFactoryPattern/src/abstractfactorypattern/ColorFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
